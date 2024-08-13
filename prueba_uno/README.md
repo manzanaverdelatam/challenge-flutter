@@ -1,9 +1,5 @@
 # Prueba 1
 
-Imagina que trabajas en una empresa consultora, y que uno de tus compañeros ha estado trabajando en un pequeño ecommerce para uno de los clientes. Desafortunadamente tu compañero no ha podido continuar con el proyecto.
-
-Al ser tú uno de los desarrolladores más experimentados, el proyecto se te asigna a ti. Afortunadamente la aplicación está casi completa. Para completarla solo hace falta implementar el algoritmo que calcula el total de la compra y mostrar el resultado en pantalla.
-
 ## Calcular el total de la compra.
 
 En el archivo app_controller.dart termina de implementar el método calculateTotal de la clase CatalogCartAndCheckout. Para ello debes tener en cuenta que:
@@ -63,17 +59,7 @@ En el archivo app_controller.dart termina de implementar el método calculateTot
 
 ## Refactoriza
 
-Al revisar el proyecto, uno de los líderes de desarrollo se percata de que el código no está bien organizado. Así que te dan la tarea de corregir este problema. Además te piden buscar en el código cualquier antipatrón, mala práctica o punto de mejora que haya dejado tu compañero. De ser posible, debes corregirlo. De lo contrario un comentario en el código con una breve explicación es suficiente.
-
 En este punto tienes la libertad de cambiar cualquier aspecto del proyecto. Las únicas dos condiciones son: que la aplicación se vea y se comporte de la misma manera, y no modificar la carpeta ./packages/api/
-
-## Testing
-
-Se hace una primera entrega al cliente y este queda satisfecho con el resultado. Aun así, considera que existe la posibilidad de que futuros desarrollos cambien inadvertidamente el funcionamiento de la aplicación. Por este motivo, y para darle tranquilidad al cliente, se le asegura que la entrega final tendrá test automatizados para prevenir esta situación.
-
-Tu tarea es agregar los tests al algoritmo que calcula el total de la compra. De ser posible también debes testear que el número que aparece en pantalla coincida con el cálculo. Agrega cualquier otro test que consideres importante.
-
-----
 
 ## Consideraciones generales.
 
